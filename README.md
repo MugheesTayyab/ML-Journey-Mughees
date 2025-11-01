@@ -3,10 +3,10 @@ Hi! I'm Mughees — a CS student dedicated to learning Machine Learning, Deep Le
 I’m currently building a solid foundation in Python, math for ML, and data analysis while documenting my journey every week.
 
  📂 Repository Structure
-- Week 1: Python Basics
-- Week 2: Numpy & Pandas
-- Week 3: Data Visualization
-- More weeks coming soon 
+- month 1: Python Basics
+- month 2: Numpy & Pandas
+- month 3: Data Visualization
+- More month coming soon 
 
  📎 Connect with Me
 - [LinkedIn](www.linkedin.com/in/mugheestayyabkundi)
