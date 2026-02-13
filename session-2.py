@@ -1,5 +1,5 @@
 
-# Week 2 - Logic & Problem Solving in Python
+# session 2 - Logic & Problem Solving in Python
 # Author: Mughees
 # Focus: Building core programming logic for Applied Machine Intelligence
 
@@ -77,3 +77,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
