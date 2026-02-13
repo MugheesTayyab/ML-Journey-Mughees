@@ -1,4 +1,4 @@
-# Week 1: Python Basics by Mughees
+# session 1: Python Basics by Mughees
 
 print("Welcome to Week 1 of Python Learning")
 
@@ -164,4 +164,5 @@ file.close()
 file = open("test.txt", "r")
 print(file.read())
 file.close()
+
 
